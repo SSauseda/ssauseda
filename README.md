@@ -37,11 +37,11 @@ Transitioning from a background in nursing and healthcare, I've embarked on a jo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssauseda&layout=compact)
 
 ## 🏆 Showcase
-### EnduroTrak [Live](https://endurotrak.onrender.com/) | [Github](https://github.com/SSauseda/endurotrak)
+### EnduroTrak ** [Live](https://endurotrak.onrender.com/) | [Github](https://github.com/SSauseda/endurotrak)
   EnduroTrak offers fitness enthusiasts a platform to set up and participate in challenges.
-### Bone Apple Teeth [Live](https://table-tango.onrender.com/) | [Github](https://github.com/bergmazz/open_table)
+### Bone Apple Teeth ** [Live](https://table-tango.onrender.com/) | [Github](https://github.com/bergmazz/open_table)
   Bone Apple Teeth is a collaborative group project offering a dynamic restaurant reservation platform.
-### StayBnC [Live](https://staybnc.onrender.com/) | [GitHub](https://github.com/SSauseda/Staybnc)
+### StayBnC ** [Live](https://staybnc.onrender.com/) | [GitHub](https://github.com/SSauseda/Staybnc)
   Staybnc is a full-stack web application designed to connect travelers with unique spots around the world.
 
 ##  🔍  What I'm currently learning:
