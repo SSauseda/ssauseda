@@ -36,6 +36,8 @@ Transitioning from a background in nursing and healthcare, I've embarked on a jo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssauseda&layout=compact)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssauseda&" alt="ssauseda" /></p>
+
 ## 🏆 Showcase
 ### EnduroTrak ** [Live](https://endurotrak.onrender.com/) | [Github](https://github.com/SSauseda/endurotrak)
   EnduroTrak offers fitness enthusiasts a platform to set up and participate in challenges.
