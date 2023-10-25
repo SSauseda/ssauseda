@@ -59,7 +59,7 @@ Transitioning from a background in nursing and healthcare, I've embarked on a jo
 
 ## 📫 Connect with Me
 - 📧 [stevensauseda@gmail.com](stevensauseda@gmail.com)
-- 🌐 [Personal Portfolio](www.stevensauseda.com)
+- 🌐 [Personal Portfolio](http://www.stevensauseda.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/stevensauseda/)
 
 <!--
